@@ -1,0 +1,13 @@
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\bin\Debug\Cinema_form.exe.config
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\bin\Debug\Cinema_form.exe
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\bin\Debug\Cinema_form.pdb
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.csprojAssemblyReference.cache
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.Login.resources
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.Properties.Resources.resources
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.csproj.GenerateResource.cache
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.csproj.CoreCompileInputs.cache
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.exe
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.pdb
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.Login_page.resources
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.Admin.resources
+C:\Users\Lamiye Adigozelli\source\repos\Cinema_form\Cinema_form\obj\Debug\Cinema_form.User.resources
